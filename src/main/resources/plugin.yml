@@ -1,0 +1,9 @@
+name: CmbLib
+version: '1.0'
+main: xyz.devcmb.cmbLib.CmbLib
+api-version: '1.21'
+prefix: CmbUtil
+load: STARTUP
+authors: [ DevCmb ]
+description: A simple utilities package
+website: devcmb.xyz
